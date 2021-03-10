@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-수정ㅈ수정수저어어수정 아우 커밋 ㅠ
+아우..
 </body>
 </html>
