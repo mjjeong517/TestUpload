@@ -6,5 +6,4 @@
 <br/><br/>
 <a href="TicketList.jsp" class="btn btn-link btn-lg" >티켓조회 바로가기</a>
 </h4>
-
 <%@ include file="incFooter.jsp" %>
