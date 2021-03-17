@@ -8,8 +8,8 @@
 		<thead>
 			<tr class="active">
 				<th class="text-center">회 원 아 이 디</th>
-				<th class="text-center">이 름 </th>
-				<th class="text-center">연 락 처</th>
+				<th class="text-center">이름 </th>
+				<th class="text-center">연락처</th>
 				<th class="text-center">정보 수 정/탈퇴</th>
 			</tr>
 		</thead>
