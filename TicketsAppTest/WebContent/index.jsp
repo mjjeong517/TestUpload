@@ -10,7 +10,7 @@
 		out.println("location.replace('TicketList.jsp');");
 		out.println("</script>");
 	}else{ %>
-		<label>아이디</label>
+		<label>아 이 디</label>
 		<input type="text" name="userid" placeholder="아이디를 입력하세요" class="form-control"/>
 		<label>비밀번호</label>
 		<input type="password" name="userpwd" placeholder="비밀번호를 입력하세요" class="form-control"/>
