@@ -10,7 +10,7 @@
 				<th class="text-center">회 원 아 이 디</th>
 				<th class="text-center">이름 </th>
 				<th class="text-center">연 락처</th>
-				<th class="text-center">정보 수 정/탈퇴</th>
+				<th class="text-center">정 보 수 정/ 탈 퇴</th>
 			</tr>
 		</thead>
 <%
