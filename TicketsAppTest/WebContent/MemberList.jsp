@@ -10,7 +10,7 @@
 				<th class="text-center">회원 아이디</th>
 				<th class="text-center">이름</th>
 				<th class="text-center">연락처</th>
-				<th class="text-center">정보수정/탈퇴</th>
+				<th class="text-center">정보 수정/탈퇴</th>
 			</tr>
 		</thead>
 <%
